@@ -1,6 +1,8 @@
 
  <h1 align="center">Hi 👋, I'm Sujal Prajapati</h1>
 
+[![](https://visitcount.itsvg.in/api?id=SujalPrajapati3&icon=0&color=0)](https://visitcount.itsvg.in)
+
 - 🌱 I’m currently learning C Language
 - 💬 Ask me anything about C language 
 - 📫 How to reach me: sujalprajapati6105@gmail.com
